@@ -1,0 +1,24 @@
+Problem statement: Create a News articles listing app using React.js.
+
+
+Functionalities:
+- Design - Open as per your thought, but responsive for tablet and mobile.
+- Page will be a grid of cards, which will represent articles.
+- Each card should have Title, Author name, Cover image (url will be in the json), Published Date
+- Redirect user to the actual article link on click (in new browser tab)
+- Build a search bar at top where user can type and click search to get results.
+
+
+API service details provided below :-
+News API​ Link: ​https://gnews.io/​
+Choose 3 top-headline category from their list - https://gnews.io/api/v4/top-headlines?token=API-Token
+Choose 3 search results category from their list - https://gnews.io/api/v4/search?token=API-Token
+All use cases can be handled by this API. Go ​through the API​ doc thoroughly.
+
+
+Home Page Structure :-
+Category 1			Category 2			Category 3
+Article 1			Article 1			Article 1
+Article 2			Article 2			Article 2
+Article 3			Article 3			Article 3
+	
